@@ -20,8 +20,10 @@ piambientlight
 
 Ambient light driver for Rasberry PI using PI Camera
 
-The goal of this project is to develop a completely passive ambient LED lighting system using
-a Rasberry PI using a PI Camera.
+The goal of this project is to develop a completely passive ambient LED lighting system using a Rasberry Pi with an attached Pi camera.
+
+.. image:: https://github.com/coleslaw481/piambientlight/blob/master/images/overview.png
+
 
 * Free software: GNU General Public License v3
 * Documentation: https://piambientlight.readthedocs.io.
