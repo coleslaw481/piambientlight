@@ -29,11 +29,13 @@ The figure above summarizes the idea. Basically a Rasberry Pi with a Pi camera i
 * Free software: GNU General Public License v3
 * Documentation: https://piambientlight.readthedocs.io.
 
+Status
+------
 
-Features
---------
+Nothing works, still trying to figure out how to best use the Pi camera and extract values of pixels around the fringe of the image.
 
-* TODO
+
+
 
 Credits
 ---------
