@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/evn python
 
 import io
 import time
